@@ -1,0 +1,7 @@
+body{
+    /* background-color: antiquewhite; */
+    background:url('/img/wea.jpg') no-repeat;
+}
+.card-header{
+    background-color:antiquewhite;
+}
